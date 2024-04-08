@@ -1,4 +1,6 @@
 # Open M2 admin login
+it's about how to open access to Magento 2 admin panel during development on local environment.
+(article is under construction..)
 ```php
 // We need file:
 // vendor/magento/module-user/Model/User.php
