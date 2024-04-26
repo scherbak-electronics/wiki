@@ -1,7 +1,8 @@
 # PHP interview
 Questions and test tasks during interviews for the PHP developer position.
 
-
+What does this function? How would you name it?
+What will be the result if the input string is `AaCC4b`?
 ```php
 <?php
 
