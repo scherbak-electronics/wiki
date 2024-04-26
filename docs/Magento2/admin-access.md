@@ -73,3 +73,39 @@ $this->_eventManager->dispatch
  \Magento\Security\Model\AdminSessionsManager::processProlong
  \Magento\Backend\Model\Auth\Session::refreshAcl
 ```
+
+```json
+{
+    "user_id": "1",
+    "firstname": "vadim",
+    "lastname": "vadim",
+    "email": "scherbak.electronics@gmail.com",
+    "username": "admin",
+    "password": "10f0f690d8b5cbc6697040bf08460301e1fa1a033685d92e032ebe6b11e4ba4d:WOaeJWKbbfu21CwPIowYxAkEEJ52ldE1:3_32_2_67108864",
+    "created": "2023-05-22 21:46:23",
+    "modified": "2024-02-07 13:56:46",
+    "logdate": "2024-02-07 13:54:51",
+    "lognum": "4",
+    "reload_acl_flag": "0",
+    "is_active": "1",
+    "extra": {
+        "configState": {
+            "admin_security": "1",
+            "admin_emails": "0",
+            "admin_startup": "0",
+            "admin_url": "0",
+            "admin_dashboard": "0",
+            "admin_grid": "0",
+            "admin_captcha": "0",
+            "admin_usage": "0"
+        }
+    },
+    "rp_token": null,
+    "rp_token_created_at": null,
+    "interface_locale": "en_US",
+    "failures_num": "0",
+    "first_failure": null,
+    "lock_expires": null,
+    "tfa_providers": []
+}
+```
